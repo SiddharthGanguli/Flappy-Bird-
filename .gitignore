@@ -1,4 +1,4 @@
-# Unity generated files
+# === Unity Cache / Generated files ===
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -7,7 +7,7 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
-# Visual Studio / IDE files
+# === IDE / Editor files ===
 .vs/
 *.csproj
 *.unityproj
@@ -17,26 +17,26 @@
 *.pidb
 *.booproj
 
-# OS files
+# === OS files ===
 .DS_Store
 Thumbs.db
 
-# Crash / auto-generated files
+# === Crash / auto-generated files ===
 sysinfo.txt
 mono_crash.*
 
-# Ignore Unity packages build
+# === Builds ===
 *.apk
 *.aab
 *.unitypackage
 *.unitypackage.meta
 *.app
 
-# Optional: ignore Blender backups
+# Optional: Blender backups
 *.blend1
 *.blend1.meta
 
-# Optional: ignore Addressables temp data
+# Optional: Addressables temp
 /ServerData
 /[Aa]ssets/StreamingAssets/aa*
 /[Aa]ssets/AddressableAssetsData/link.xml*
