@@ -102,6 +102,6 @@ InitTestScene*.unity*
 *
 
 # Allow these specific files/folders
-!Flappy_bird.app/
+!Flappy_bird.app/**
 !Flappy Blorb.sln
 !.gitignore
